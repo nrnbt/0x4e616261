@@ -1,4 +1,4 @@
-<h2 align="left"><><br><name>Naranbat</name><br><from>Mongolia</from><br></></h2>
+<h2 align="left"><><br><Name>Naranbat</Name><br><From>Mongolia</From><br></></h2>
 
 ###
 
